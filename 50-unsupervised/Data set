@@ -1,0 +1,4 @@
+data set
+seeds: https://archive.ics.uci.edu/ml/datasets/seeds
+wine: https://archive.ics.uci.edu/ml/datasets/Wine
+fish http://ww2.amstat.org/publications/jse/jse_data_archive.htm
